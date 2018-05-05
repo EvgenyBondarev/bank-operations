@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<operation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="expense">
+  <Amount>10</Amount>
+  <Date>2018-04-10T14:11:00</Date>
+</operation>

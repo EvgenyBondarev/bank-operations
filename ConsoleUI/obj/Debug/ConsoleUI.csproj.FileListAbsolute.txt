@@ -1,0 +1,10 @@
+C:\Users\Evgeniy\source\repos\BankOperations\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Evgeniy\source\repos\BankOperations\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Evgeniy\source\repos\BankOperations\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Evgeniy\source\repos\BankOperations\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Evgeniy\source\repos\BankOperations\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\source\repos\BankOperations\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Evgeniy\source\repos\BankOperations\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Evgeniy\source\repos\BankOperations\ConsoleUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Evgeniy\source\repos\BankOperations\ConsoleUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Evgeniy\source\repos\BankOperations\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
